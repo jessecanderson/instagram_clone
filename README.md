@@ -1,10 +1,9 @@
 # instagram_clone
 
-A new Flutter project.
+Doing this as a learning project. I'm recreating the Instagram application as much as I can. I don't have an API/back end just yet.
+I'm looking at possibly doing a firebase back end at some point. But I wanted to get the main UI designed and working.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
